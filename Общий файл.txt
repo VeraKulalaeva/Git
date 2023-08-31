@@ -1,0 +1,280 @@
+VeraKulalaeva
+Public
+
+
+Привет, меня зовут Вера!
+Я являюсь начинающим тестировщиком программного обеспечения. Здесь я делюсь с Вами некоторыми материалами выполненных мною работ для демонтрации полученных навыков 
+
+---
+
+<img align="center" src="https://media.tenor.com/1wswTEx2a1AAAAAC/anyone-hello.gif" height="170">
+
+
+### 👩‍💻 Обо мне:
+
+- 🌆 В тестирование пришла из сферы работы с недвижимостью
+- 🎓 Прошла курс обучения "Функциональное тестирование ПО" ⚡
+- 📰 Здесь можно ознакомиться с моим резюме ...
+- ✅ В настоящее время открыта для работы в качестве тестировщика программного обеспечения
+
+- 📫 Как связаться со мной: 
+
+  <div id="badges">
+    <a href="https://verahome@internet.ru" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="70" height="50" alt="Gmail" />
+    </a>
+    <a href="https://t.me/VMkulalaeva" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="50" height="50" alt="telegram" />
+    </a>
+  </div>
+
+---
+
+### Некоторые инструменты, которые я использую в работе:
+
+### 📁 Тестовая документация:
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png?20200803082248" title="youtrack" alt="youtrack" width="40" height="40"/>&nbsp
+  <img src="https://codahosted.io/packs/21236/unversioned/assets/LOGO/ba1091c59bab89cd2fd0f289622731fe16113d7b00905abe64759c313a4b73b76c1b0426076ed76cb74752234c734131df46992d5b8b48fc13e264240e4f7119f736cfeb64df36ded54b5cbf6198b9cadedf18dd0cac5c7dbcd16e6336c29363cd1292ba" title="testrail" alt="tetstrail" width="40" height="40"/>&nbsp
+  <img src="https://docs.testit.software/images/testit_logo_icon.png" title="test-it" alt="test-it" width="40" height="40"/>&nbsp
+  <img src="https://luna1.co/eb0187.png" title="qase" alt="qase" width="40" height="40"/>&nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp
+</div>
+
+---
+
+### 🛠 Тестирование веб-приложений:
+
+<div>
+  <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>&nbsp
+  <img src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png" title="postman" alt="postman" width="40" height="40"/>&nbsp
+  <img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" title="soapui" alt="soapui" width="40" height="40"/>&nbsp
+</div>
+
+---
+
+### 📱 Тестирование мобильных приложений:
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="android-studio" alt="android-studio" width="40" height="40"/>&nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" title="xcode" alt="xcode" width="40" height="40"/>&nbsp
+  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="charles-proxy" alt="charles-proxy" width="40" height="40"/>&nbsp
+  <img src="https://www.megaleechers.com/storage/Fiddler-Everywhere-Icon.png" title="fiddler" alt="fiddler" width="40" height="40"/>&nbsp
+  <img src="https://pbs.twimg.com/profile_images/1589614420766126080/slAIVDtr_400x400.jpg" title="proxyman" alt="proxyman" width="40" height="40"/>&nbsp
+</div>
+
+---
+
+### 💾 Работа с данными:
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
+</div>
+
+---
+
+### ✏️ Работа с кодом:
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" title="bash" alt="bash" width="40" height="40"/>&nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
+  
+</div>
+
+---
+
+<h2>Test Artifacts </h2>
+<p> 
+ <ul>
+<li>  <a href="https://github.com/VeraKulalaeva/Web_app_testing">Web app testing</a>  </li>
+<li>  <a href="https://github.com/VeraKulalaeva/API_testing_via_Postman"> API testing via Postman </a>   </li>
+<li> <a href="https://github.com/VeraKulalaeva/Database_testing">Database testing</a>   </li>
+<li>  <a href="https://github.com/VeraKulalaeva/Mobile_app_testing"> Mobile app testing</a>   </li>
+<li> <a href="https://github.com/VeraKulalaeva/Traffic_interception">Traffic interception via CharlesProxy</a>  </li>
+<li> <a href="https://github.com/VeraKulalaeva/Bush"> Bash </a>  </li>
+<li> <a href="https://github.com/VeraKulalaeva/Git"> Git </a> </li>
+</ul>
+</p>
+
+
+<!-- ### 💻 Пройденные курсы:
+
+| Курсы                                                           | Дата              |
+| ----------------------------------------------------------------| :---------------: |
+| netology.ru/Старт в программировании                            | 02/2022 - 03/2022 |
+
+--- -->
+
+git add .
+git commit -m "VeraKulalaeva"
+git push
+
+
+API_testing_via_Postman 
+Public
+
+# API testing via Postman
+
+В рамках домашнего задания необходимо было: 
+
+1) Протестировать все методы, которые представлены для сервиса https://petstore.swagger.io/ в Postman и создать соответствующую коллекцию
+
+Помимо создания <a href="https://www.postman.com/verakul/workspace/my-workspace/collection/28815399-73e9c31e-0f44-4719-ab50-3a550262d578?action=share&creator=28815399">коллекции</a> по всем методам также необходимо:
+
+- Написать тест, который проверяет статус код после удаления домашнего животного из базы
+- Создать несколько юзеров, используя метод createdWithArray
+- В теле запроса для создания питомца сделать динамические значения, которые будут автоматически генерироваться при отправке
+
+2) Написать тестовые <a href="https://docs.google.com/spreadsheets/d/1pqJjBW98Zd46Nj6mMSOA6g4aBV_GurNHtuHQrkmz53w/edit?usp=sharing">кейсы</a> для тестирования запросов коллекции https://petstore.swagger.io/ для 4 методов из блока Store
+
+3) Cоздать рабочую <a href="https://www.postman.com/verakul/workspace/my-workspace/collection/28815399-73e9c31e-0f44-4719-ab50-3a550262d578?action=share&creator=28815399">коллекцию</a> в Postman, с помощью которой можно определить: валюту страны, полную информацию о стране и информацию о языке конкретной страны
+
+git add .
+git commit -m "Postman"
+git push
+
+
+Database_testing 
+Public
+
+# Database testing via MySQL Workbench
+
+Используя дампы базы данных Hogwarts https://drive.google.com/drive/u/3/folders/1MC0AttnmlAmugifFlX3hG6pssYZDqpPB составить ряд запросов, написанных на SQL
+
+С коллекцией можно ознакомиться по <a href="https://docs.google.com/document/d/184JGW7oNBmou7P81mnaF2yccEuGIrV4GJmCGF0up7qs/edit?usp=sharing">ссылке</a>
+
+git add .
+git commit -m "Database"
+git push
+
+
+# Web app testing
+
+В рамках задания необходимо было протестировать ряд модулей интернет-магазина https://demo.guru99.com/telecom/index.html, для чего были созданы следующие виды документации:
+
+1) Краткий <li1> <a href="https://docs.google.com/spreadsheets/d/17SDAYFxNyGMs_sWfQuu45ZbqU7c0E7Uf9HU3gAN2kfI/edit?usp=sharing">тест-план</a>, в котором необходимо было описать что и как нужно тестировать (функции, виды тестирования, инструменты), основные этапы работы, риски</li1>
+2) <li2> <a href="https://docs.google.com/spreadsheets/d/1fvjmDulqPzhGM6xD2XpLjPr7Vt3h7KJS8tgy-59Wr-A/edit?usp=sharing)https://docs.google.com/spreadsheets/d/1fvjmDulqPzhGM6xD2XpLjPr7Vt3h7KJS8tgy-59Wr-A/edit?usp=sharing">Чек-лист</a> на главную страницу</li2>
+3) <li3> <a href="https://disk.yandex.ru/d/pZEM-5cWAFqYOA">Тест-кейсы</a> на функциональность Add Customer</li3>
+4) Найденные <li4> <a href="https://disk.yandex.ru/i/D2gdGPt3OvllXg">баги</a> оформлены в системе YouTrack</li4>
+
+Далее:
+
+5) <li5> <a href="https://docs.google.com/spreadsheets/d/1PLmg3qZBg4gCso3l8jHil3kFz1JXBCM5LEn8mPMm9XY/edit?usp=sharing">Чек-лист</a> на тестирование корзины и модуля оплаты (метод Credit card)</li5>
+6) <li6> <a href="https://disk.yandex.ru/d/UrFzcFYc5xtvGw">Тест-кейсы</a> для описанных функциональностей</li6>
+7) Найденные <li7> <a href="https://disk.yandex.ru/i/OvkDu6IQ6oHySQ">баги</a> оформлены в системе YouTrack</li7>
+
+git add .
+git commit -m "Web app"
+git push
+
+
+Mobile_app_testing
+Public
+
+# Mobile app testing
+
+Задача состояла в полноценном тестировании мобильного приложения (<a href="https://drive.google.com/file/d/1IkqWnm6z293ETG0MdveKTjrsrWd7WQHz/view?usp=sharing">установочный файл</a>) на платформе Android. 
+Для целей тестирования были использованы реальный девайс и эмулятор.
+
+Были составлены следующие виды документации:
+
+1) <a href="https://docs.google.com/spreadsheets/d/1a5Q9Z05xRdhXOTRMVG3lYB1XX3lEr0tefSq26fFpkEM/edit?usp=sharing">Чек-лист</a> для тестирования всех функций приложения
+
+2) Для модуля на создание таски - <a href="https://disk.yandex.ru/d/K3MUjhOyebuIPg">тестовый набор</a> с кейсами в системе QASE
+
+3) На основании написанной документации оформлены отчеты о дефекте в YouTrack. С несколькими примерами можно ознакомиться по <a href="https://disk.yandex.ru/d/vsllmhE7YpccrQ">ссылке</a>.
+
+4) По результатам тестирования составлен <a href="https://docs.google.com/document/d/1y20YXpwAX1sO2YKxy6fjryL28nNqT75lkn6FuvlsDVc/edit?usp=sharing">отчет</a>.
+
+git add .
+git commit -m "Mobile app"
+git push
+
+
+Traffic_interception
+Public
+
+# Traffic interception via Charles Proxy
+
+В рамках домашнего задания проводилось тестирование <a href="https://github.com/osukhorukova/git">интернет магазина</a> с использованием сниффера  Charles Proxy
+
+Необходимо было:
+
+1) <a href="https://disk.yandex.ru/i/jv0oj5OaMnVDmA">Изменить количество товаров</a> в корзине - в запросе отправляется "2" товара, должны вернуться "500".
+
+2) Смоделировать ситуацию, при которой при обращении к ресурсу <a href="https://disk.yandex.ru/i/MTxmKgOBFnpFGQ">сервер вернет статус-код 403</a>.
+
+3) <a href="https://disk.yandex.ru/i/kSzwkSasqualig">Перебросить запрос</a> с окружения Prod на QA.
+
+А также изменять данные запросов, уходящих с мобильного устройства Android:
+
+4) <a href="https://disk.yandex.ru/i/L2pt7qIwS5b95Q">Удалить товары из корзины</a> в уже известном интернет магазине.
+
+5) Смоделировать ситуацию, при которой при обращении к ресурсу пользователь увидит в браузере <a href="https://disk.yandex.ru/i/Guu3YnS0vWszPQ">любую картинку</a>.
+
+6) Продемонстрировать информацию об <a href="https://disk.yandex.ru/i/boZ-zqmLIU4v4A">используемом устройстве Android</a>.
+
+git add .
+git commit -m "Charles"
+git push
+
+
+
+Bush 
+Public
+
+
+# Bush
+
+В представленных заданиях отрабатывается навык использования командной оболочки Bush, позволяющей освоить систему базовых команд для работы с файлами и папками, поиском, настройкой окружения и управления ОС прямо из командной строки
+
+## Часть 1
+
+```bush
+1) Зайти в домашнюю директорию
+~
+
+2) Определить имя папки, в которой вы находитесь
+$ pwd
+
+3) Создать каталог с именем test1
+$ mkdir test1
+...
+
+## Часть 2
+
+```bush
+1) Зайти в домашнюю директорию
+~
+...
+
+```
+
+git add .
+git commit -m "Bush"
+git push
+
+
+
+Git
+Public
+
+# Git
+
+В рамках работы с системой контроля версий Git мною были получены знания базовых команд, позволяющих создавать новые проекты, отслеживать историю изменения файлов, сравнивать, анализировать или сливать свои изменения в репозиторий. Некоторые из этих команд представлены ниже 👇
+
+```git
+
+1)Создать репозиторий
+git init VeraKulalaeva
+...
+
+```
+
+git add .
+git commit -m "Git"
+git push
